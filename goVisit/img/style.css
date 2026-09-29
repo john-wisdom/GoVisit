@@ -1,8 +1,8 @@
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+style {
+    img {
+        width: 100%;
+        border-radius: 16px;
+    }
 }
-.video {
-    margin: 20px;
-}
+.my-section [
+]
